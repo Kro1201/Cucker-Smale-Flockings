@@ -1,27 +1,15 @@
-# Cucker-Smale-Flockings
+# Flocking Models: Dynamical Systems and Cucker-Smale Model
 
-Flocking Models: Dynamical Systems and Cucker-Smale Model
+This repository contains the research report and the numerical simulation code developed for my Master 1 thesis at Paris-Dauphine PSL University.
 
-This repository contains the research report and the numerical simulation code developed for a Master 1 project at Paris-Dauphine PSL University.
-
-The project investigates the collective behavior (or flocking) of interacting agents, focusing primarily on the Cucker-Smale mathematical model.
-👥 Authors
-
-    Céline CAI
-
-    Caroline NGUYEN
-
-    Gabriel GAUTHIER
-
-    Supervisor: Amic FROUVELLE
+The project aims to understand the collective behavior (or flocking) of interacting agents, focusing primarily on the Cucker-Smale mathematical model.
 
 📂 Repository Structure
 
-    Flockings_Mémoire_M1_révisé.pdf: The comprehensive research paper detailing the mathematical proofs, the reduction of the dynamical system, and the analysis of the simulations.
+    Flockings_Mémoire_M1_révisé.pdf: The thesis paper detailing the mathematical proofs, the reduction of the dynamical system, and the analysis of the simulations.
 
-    main.py: The optimized Python script simulating the model. It uses a vectorized Euler method via NumPy for high-performance computation of positions and velocities over time.
-
-    flocking_essai_(.py & Flocking_essai_(.ipynb: Original drafts, development scripts, and Jupyter Notebooks containing the initial algorithmic tests and iterations.
+    flocking.py: The optimised Python script simulating the model. It uses a vectorized Euler method via NumPy for high-performance computation of positions and velocities over time.
+    
 
 📝 Project Description
 
