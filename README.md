@@ -27,19 +27,21 @@ In our simulations, the regular interaction function between particles is parame
 ψ(s)=(1+s2)β/2α​
 
 The codebase allows users to test the emergence of unconditional or conditional flocking by tweaking the α and β parameters.
+
 🛠️ Prerequisites and Installation
 
 To run the simulation code, you need Python 3 installed along with standard scientific libraries.
-Bash
 
+```
 pip install numpy matplotlib
+```
 
 🚀 Usage
 
 Run the main script to execute the optimized simulation:
-Bash
-
+```
 python main.py
+```
 
 Configuration:
 You can directly modify the variables within main.py to explore different system behaviors:
